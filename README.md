@@ -7,14 +7,11 @@ This course aims to equip students with the fundamental theoretical and practica
 
 This repository contains all the course material -- one set of slides and one jupyter notebook per lesson, with rare exceptions. All required datasets are also included.
 
-For clarity, the course material is stored in branches. Each branch corresponds to a specific year or student group:
-
-- `main`: The landing page for this repository. All course material has been moved to branches.
-- `2023-2024`: First iteration of the course, for MIAS M1 and G3 OSP students at École Centrale de Lille. Has the most comprehensive material.
-- `2025-2026/mias-m1`: Shorter version of the course with an emphasis on data preparation. The class on collaborative development (DS2) also includes a lecture on best practices for coding.
-- `2025-2026/g3-iasn`: Shorter version of the course with an emphasis on machine learning. Lectures are generally denser and aggregate several sessions from the other branches.
-
 Slides are mostly illustrative, as explanations were given orally. Practicals, however, should be self-explanatory.
 If you have any questions, suggestions or comments, feel free to reach out!
 
 📫 **Contact**: [hsalemwork@gmail.com](mailto:hsalemwork@gmail.com)
+
+## G3 IASN
+
+You are currently on the `2025-2026/g3-iasn` branch! This is the version of the course taught to G3 "Intelligence Artificielle et Santé Numérique" (IASN) in october of 2025.
